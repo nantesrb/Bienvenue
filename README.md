@@ -6,3 +6,4 @@ https://www.meetup.com/fr-FR/Nantes-rb/
 
 https://twitter.com/nantesrb
 
+https://nantesrb.herokuapp.com/

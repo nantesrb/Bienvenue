@@ -1,9 +1,11 @@
-# Welcome
-Bienvenue sur Nantes.rb
+# Bienvenue
 
+## Bienvenue sur Nantes.rb
 
-https://www.meetup.com/fr-FR/Nantes-rb/
+Vous souhaitez rejoindre la communauté Nantes.rb ? Voici quelques liens pour la découvrir :
 
-https://twitter.com/nantesrb
+* Meetup : https://www.meetup.com/fr-FR/Nantes-rb/
 
-https://nantesrb.herokuapp.com/
+* Twitter : https://twitter.com/nantesrb
+
+* Slack : https://nantesrb.herokuapp.com/

@@ -1,6 +1,4 @@
-# Bienvenue
-
-## Bienvenue sur Nantes.rb
+# Bienvenue sur Nantes.rb
 
 Vous souhaitez rejoindre la communauté Nantes.rb ? Voici quelques liens pour la découvrir :
 

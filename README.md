@@ -1,6 +1,7 @@
 <p align="center">
-![Logo](https://raw.githubusercontent.com/nantesrb/logo/master/src/web/logo-128.png)
+<img src="https://raw.githubusercontent.com/nantesrb/logo/master/src/web/logo-128.png">
 </p>
+
 # Nantes.rb
 Cette communautée rassemble les rubyistes nantais autour de Ruby et de son écosystème.
 
